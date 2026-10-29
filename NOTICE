@@ -1,0 +1,12 @@
+NOTICE — email-validator-rust
+
+This project is an experimental Rust port lane for python-email-validator
+(https://github.com/JoshData/python-email-validator), which is copyright
+(c) 2019-2025, Joshua Tauberer and contributors, and released into the
+public domain under the CC0 1.0 Universal Public Domain Dedication
+(see https://github.com/JoshData/python-email-validator/blob/main/LICENSE).
+
+No upstream source is vendored here. Any algorithms or structure derived
+from python-email-validator during this lane are attributed to the upstream
+project above; port code in this repository is under the LICENSE file at
+the repo root (The Unlicense, public domain).
